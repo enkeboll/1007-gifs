@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Find a GIF that summarizes how you're feeling about today being Friday.  In a branch, add your gif to the `images/` directory and embed the GIF using Markdown in this document.  I've provided an example!  Then issue a pull request for me (Andy) to review.
+Find a GIF that summarizes how you're feeling about today being a Thursday.  In a branch, add your gif to the `images/` directory and embed the GIF using Markdown in this document.  I've provided an example!  Then issue a pull request for me (Andy) to review.
 
 ### Andy
 Your gif here!
