@@ -26,7 +26,7 @@ Your gif here!
 Your gif here!
 
 ### Nicole
-Your gif here!
+![almost there!](images/nicole.gif)
 
 ### Seoho
 Your gif here!
