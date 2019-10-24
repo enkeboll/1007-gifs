@@ -14,7 +14,7 @@ Your gif here!
 Your gif here!
 
 ### Brad
-Your gif here!
+![ready for Friday](images/thursday_eve.gif)
 
 ### Buddy
 Your gif here!
