@@ -17,7 +17,7 @@ Your gif here!
 Your gif here!
 
 ### Buddy
-Your gif here!
+![i really like weird things](images/buddy.gif)
 
 ### Chau
 Your gif here!
@@ -36,4 +36,3 @@ Your gif here!
 
 ### Stu
 Your gif here!
-
